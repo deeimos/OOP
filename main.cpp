@@ -31,5 +31,6 @@ int main()
 	}
 	cout << "\n\nДлина пути для этого решения:\n";
 	cities.show_min_way();
+	free(result);
 	return 0;
 }

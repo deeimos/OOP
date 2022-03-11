@@ -1,1 +1,2 @@
 C:\Users\Dmitriy\Desktop\ООП\oop_kurs\x64\Debug\oop_kurs.exe
+D:\oop_kurs\OOP\x64\Debug\oop_kurs.exe

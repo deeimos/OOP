@@ -1,2 +1,7 @@
-﻿  main.cpp
-  oop_kurs.vcxproj -> C:\Users\Dmitriy\Desktop\ООП\oop_kurs\x64\Debug\oop_kurs.exe
+﻿  algorithm.cpp
+  cell_distance.cpp
+  main.cpp
+  matrix.cpp
+D:\oop_kurs\OOP\matrix.cpp(18,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Создание кода...
+  oop_kurs.vcxproj -> D:\oop_kurs\OOP\x64\Debug\oop_kurs.exe
