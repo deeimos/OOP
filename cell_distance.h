@@ -15,5 +15,4 @@ public:
 	friend bool operator<(const cell_distance& left, const cell_distance& right);
 	friend cell_distance operator+=(cell_distance& left, cell_distance& right);
 	double	get_item();
-	//~cell_distance();
 };

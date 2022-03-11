@@ -2,6 +2,10 @@
 
 using namespace std;
 
+matrix::matrix()
+{
+}
+
 matrix::matrix(int size_matrix) : cell_distance()
 {
 	size = size_matrix;

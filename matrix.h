@@ -9,6 +9,7 @@ private:
 	cell_distance	**arr;
 	cell_distance	min_way;
 public:
+	matrix();
 	matrix(int size_matrix);
 	void	set_random_matrix();
 	void	set_input_matrix();
